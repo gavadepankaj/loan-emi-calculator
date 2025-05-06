@@ -1,4 +1,6 @@
 # Loan Calculator App
+## Live Demo
+You can try the live demo of the Loan EMI Calculator app here: https://gavadepankaj.github.io/loan-emi-calculator/
 
 
 ## Features
