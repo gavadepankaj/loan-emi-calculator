@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/loan-emi-calculator/static/js/main.5d311cc2.js",
+    "index.html": "/loan-emi-calculator/index.html",
+    "main.5d311cc2.js.map": "/loan-emi-calculator/static/js/main.5d311cc2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5d311cc2.js"
+  ]
+}
